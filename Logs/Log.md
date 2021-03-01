@@ -1,4 +1,4 @@
-Logs for ENGR489 Project
+# Logs for ENGR489 Project  
 
 Meeting Date | Meeting Time | Peron(s) present | Things Discussed
 -------------|--------------|------------------|-----------------
