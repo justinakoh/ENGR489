@@ -1,5 +1,9 @@
 # Logs for ENGR489 Project  
 
-Meeting Date | Meeting Time | Peron(s) present | Things Discussed
--------------|--------------|------------------|-----------------
-3/3/2021 | 1330 | <ul><li> 1. Ian Welch (supervisor) </ul></li> <ul><li> 2. Justina Koh (Student) </ul></li>| <ul><li> Discussed the specifications of the projects and project requirements </ul></li> <ul><li> What outcomes the project may have </ul></li> <ul><li>Expectations and ways to measure the success of the project</ul></li>
+Week |Meeting Date | Meeting Time | Peron(s) present | Things Discussed
+-----|-------------|--------------|------------------|-----------------
+W1 | 3/3/2021 | 1330 | <ul><li> 1. Ian Welch (supervisor) </ul></li> <ul><li> 2. Justina Koh (Student) </ul></li>| <ul><li> Discussed the specifications of the projects and project requirements </ul></li> <ul><li> What outcomes the project may have </ul></li> <ul><li>Expectations and ways to measure the success of the project</ul></li>
+W2 | 10/3/2021 | 1330 | <ul><li> 1. Ian Welch (supervisor) </ul></li> <ul><li> 2. Masood Mansoori (Supervisor) </ul></li> <ul><li> 3. Justina Koh (Student) </ul></li> | <ul><li> Discussed assigned project and how I am not entirely satisfied with it </ul></li> <ul><li> Discussed other potential projects and their requirements </ul></li> 
+W3 | 17/3/2021 | 1330 | <ul><li> 1. Ian Welch (supervisor) </ul></li> <ul><li> 2. Masood Mansoori (Supervisor) </ul></li> <ul><li> 3. Justina Koh (Student) </ul></li><ul><li> 4. Chris Burt (Student) </ul></li> | <ul><li> Confirmed new assignments to be IP Scanner Industry Project </ul></li> <ul><li> Discussed the things that need to be done for it i.e. ethics, contacting ZX Security </ul></li> <ul><li> Discussed the things that need to be done for the Proposal </ul></li> 
+W4 | 22/3/2021 | 1330 | <ul><li> 1. Ian Welch (supervisor) </ul></li> <ul><li> 2. Masood Mansoori (Supervisor) </ul></li> <ul><li> 3. Justina Koh (Student) </ul></li><ul><li> 4. Chris Burt (Student) </ul></li>| <ul><li> Discussed what should be done first <ul><li> Should set up the virtual machine for the project </ul></li> <ul><li> Start with a small task to familiarise with the system </ul></li> <ul><li> Start learning GoLang </ul></li> </ul></li>
+W5 | 19/3/2021 | 1330 |
